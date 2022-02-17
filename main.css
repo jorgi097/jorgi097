@@ -178,7 +178,7 @@ em{
     width: 100%;
     height: 90px;
     display: block;
-    background-image: url(/sources/img/waveshape-top-green.svg);
+    background-image: url(/waveshape-top-green.svg);
     background-size: cover;
     background-repeat: no-repeat; 
 }
@@ -243,7 +243,7 @@ em{
     width: 100%;
     height: 90px;
     display: block;
-    background-image: url(/sources/img/waveshape-yellow.svg);
+    background-image: url(/waveshape-yellow.svg);
     background-size: cover;
     background-repeat: no-repeat;
 }
